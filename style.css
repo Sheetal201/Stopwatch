@@ -1,0 +1,5 @@
+.box {
+    border: 5px dashed pink;
+    background-color: gray;
+    padding: 10px;
+  }
